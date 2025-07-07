@@ -12,7 +12,7 @@ I'm **David F. Effiong**, a passionate technology professional and lifelong lear
 ---
 
 <p align="center">
-  <img src="avatarDavid (2).png" width="600px" alt="David F. Effiong Cover"/>
+  <img src="avatarDavid.png" width="600px" alt="David F. Effiong Cover"/>
 </p>
 
 <p align ="center">Senior Data Analyst | Full-Stack Software Engineer | Author | Educator </p>
@@ -35,6 +35,13 @@ As a Full-Stack Software Engineer, here are the technologies and tools I use to 
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Bash-121011?logo=gnu-bash&logoColor=white&style=for-the-badge"/>
 </p>
+
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Bash](https://img.shields.io/badge/-Bash-121011?logo=gnu-bash&logoColor=white&style=for-the-badge)
+
 
 ---
 
